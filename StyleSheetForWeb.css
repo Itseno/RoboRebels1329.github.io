@@ -1,0 +1,130 @@
+a:link
+{
+text-decoration: none; 
+color: #ffffff; 
+background-color: #398AD2; 
+border-top: 2px solid #E36F7A;
+border-right: 2px solid #A01F2C;
+border-bottom: 2px solid #A01F2C;
+border-left: 2px solid #E36F7A;
+padding: 1px;
+width: 120px; height="28"
+}
+
+a:visited
+{
+color:orange;
+font-family: cursive;
+}
+
+span.hilite
+{
+background-color:yellow;
+color: red;
+}
+
+#title
+{
+text-align: center;
+}
+
+#title
+{
+padding-top: 10px;
+padding-right: 10px;
+padding-left: 10px;
+padding-bottom: 10px;
+}
+
+#title
+{
+border-top: 10px solid red;
+border-bottom: 10px solid red;
+border-left: 10px solid red;
+border-right: 10px solid red;
+}
+
+#title
+{
+background-color: #398AD2
+}
+
+#RightBody
+{
+background-image: url("blueRaster2015.png");
+background-repeat: repeat-y;
+background-size: cover;
+}
+
+#MainUp
+{
+color: white;
+}
+
+#RightBody
+{
+color: white;
+}
+
+#TopPageLinks
+{
+line-height:30px;
+height:2000px;
+width:80px;
+float:left;
+padding:5px;
+}
+
+#Home
+{
+text-align: center;
+display:inline;
+background-color: brown;
+}
+
+#Build
+{
+text-align: center;
+display:inline;
+background-color: purple;
+}
+
+#Donors
+{
+display:inline;
+text-align: center;
+background-color: #00637A;
+}
+ 
+#FloatLeft
+{
+float: left;
+}
+    
+#FloatMid
+{
+float: center;
+}
+
+#FloatRight
+{
+float: right;
+}
+
+span.DonorTitle
+{
+color: #0029D6;
+background-color: #E55B3C;
+border-top: 2px solid #D60A33;
+border-bottom: 2px solid #D60A33;
+border-left: 2px solid #D60A33;
+border-right: 2px solid #D60A33;
+}
+
+
+
+
+
+
+
+
